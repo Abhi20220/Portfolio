@@ -101,7 +101,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://www.linkedin.com/in/abhishek-chaudhary-692b1a22a/'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -109,7 +109,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://github.com/Abhi20220'
             >
               Github <FaGithub size={30} />
             </a>
@@ -117,7 +117,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='abhishekchaudhary1442016@gmail.com'
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -125,7 +125,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://docs.google.com/document/d/1FLQ7cWaXCkMBkduZZzgH16qFD-bRt-eGFwj_M_nNlTk/edit?usp=sharing'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
